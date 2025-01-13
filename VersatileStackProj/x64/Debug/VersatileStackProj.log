@@ -1,0 +1,9 @@
+﻿  user_interface.c
+C:\Users\nikok\OneDrive\Dokumenty\STUDIA\Projekty\GitHub\Poprawki2\VersatileStackProj\user_interface.c(40,22): warning C4047: 'function': 'Stack **' differs in levels of indirection from 'Stack *'
+C:\Users\nikok\OneDrive\Dokumenty\STUDIA\Projekty\GitHub\Poprawki2\VersatileStackProj\user_interface.c(40,22): warning C4024: 'interf_free_stack': different types for formal and actual parameter 1
+C:\Users\nikok\OneDrive\Dokumenty\STUDIA\Projekty\GitHub\Poprawki2\VersatileStackProj\user_interface.c(75,31): warning C4028: formal parameter 1 different from declaration
+C:\Users\nikok\OneDrive\Dokumenty\STUDIA\Projekty\GitHub\Poprawki2\VersatileStackProj\user_interface.c(77,14): warning C4047: 'function': 'Stack **' differs in levels of indirection from 'Stack *'
+C:\Users\nikok\OneDrive\Dokumenty\STUDIA\Projekty\GitHub\Poprawki2\VersatileStackProj\user_interface.c(77,14): warning C4024: 'free_stack': different types for formal and actual parameter 1
+C:\Users\nikok\OneDrive\Dokumenty\STUDIA\Projekty\GitHub\Poprawki2\VersatileStackProj\user_interface.c(255,21): warning C4047: 'function': 'Stack *' differs in levels of indirection from 'Stack **'
+C:\Users\nikok\OneDrive\Dokumenty\STUDIA\Projekty\GitHub\Poprawki2\VersatileStackProj\user_interface.c(255,21): warning C4024: 'interf_free_stack': different types for formal and actual parameter 1
+  VersatileStackProj.vcxproj -> C:\Users\nikok\OneDrive\Dokumenty\STUDIA\Projekty\GitHub\Poprawki2\x64\Debug\VersatileStackProj.exe
