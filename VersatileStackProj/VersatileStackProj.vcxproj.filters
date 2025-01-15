@@ -33,9 +33,6 @@
     <ClCompile Include="MY_STUDENT.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="data.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -54,9 +51,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="user_interface.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="data.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
